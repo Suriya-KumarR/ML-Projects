@@ -4,10 +4,10 @@ Welcome to the Machine Learning Projects Repository! This repository contains va
 
 ## Projects
 
-| Project | Description | Learnings | Files |
-|---------|-------------|-----------|-------|
-| **Spaceship Titanic** | A Kaggle dataset project focusing on predicting which passengers survived the Titanic disaster. | Data Mining, Understanding Data Correlation, Preprocessing (SVD, PCA), Feature Extraction | [Spaceship Titanic Jupyter Notebook](./Space_ship_titanic.ipynb) |
-| **Breast Cancer Wisconsin Dataset** | Analyzing a real-world dataset to predict breast cancer occurrences. | Real-World Dataset Handling, Scaling, Unsupervised Learning Techniques, Data Augmentation (SMOTE) | [Breast Cancer Wisconsin Jupyter Notebook](./dmt1_(1).ipynb) |
+| Project | Description | Learnings | Files | GitHub Repository |
+|---------|-------------|-----------|-------|-------------------|
+| **Spaceship Titanic** | A Kaggle dataset project focusing on predicting which passengers survived the Titanic disaster. | Data Mining, Understanding Data Correlation, Preprocessing (SVD, PCA), Feature Extraction | [![Spaceship Titanic Notebook](https://img.shields.io/badge/Notebook-View-green)](https://colab.research.google.com/drive/1EX3DeWDviXzQwdUKT8JO6vovJwzcng8q?usp=sharing) | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/suriyakumar99/ML-Projects/tree/main/Spaceship_titanic) |
+| **Breast Cancer Wisconsin Dataset** | Analyzing a real-world dataset to predict breast cancer occurrences. | Real-World Dataset Handling, Scaling, Unsupervised Learning Techniques, Data Augmentation (SMOTE) | [![Breast Cancer Wisconsin Notebook](https://img.shields.io/badge/Notebook-View-green)](https://colab.research.google.com/drive/18gvwMUAPCXM20cKUFV7oE58hgr-dnUY4?usp=sharing) | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/suriyakumar99/ML-Projects/tree/main/Breast_Cancer_Wisconsin) |
 
 ## Contributing
 
